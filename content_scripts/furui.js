@@ -1,10 +1,5 @@
 "use strict";
-(function() {
-  console.log("GGGG");
-})();
-console.log("aaaa");
 {
-  console.log("FFF");
   let replaceColumn = video => {
     while (video.firstChild) {
       video.removeChild(video.firstChild);
