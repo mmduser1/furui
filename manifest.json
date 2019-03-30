@@ -1,0 +1,30 @@
+{
+  "manifest_version": 2,
+  "name": "furui",
+  "version": "0.1",
+
+  "description": "filter for iwara",
+
+  "icons": {
+    "48": "icons/icon-48.png"
+  },
+
+  "permissions": ["tabs", "storage"],
+
+  "background": {
+    "scripts": ["background.js"]
+  },
+
+  "content_scripts": [
+    {
+      "matches": ["*://*.iwara.tv/videos/*"],
+      "js": ["content_scripts/furui.js"]
+    }
+  ],
+
+  "options_ui": {
+    "page": "options/options.html"
+  },
+
+  "web_accessible_resources": ["images/ng.png"]
+}
