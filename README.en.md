@@ -1,6 +1,6 @@
 # 篩 -furui-
 
-This is an add-on that adds the NG user function to Iwara.tv and hides the video thumbnail.
+This is an addon that adds the NG user function to Iwara.tv and hides the video thumbnail.
 
 # URL
 
