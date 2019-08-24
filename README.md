@@ -10,4 +10,4 @@ Iwara.tvにNGユーザー機能を追加し、動画サムネイルを非表示�
 
 - firefox
 
-  https://addons.mozilla.org/ja/firefox/addon/furui/
+  https://addons.mozilla.org/firefox/addon/furui/

@@ -10,4 +10,4 @@ This is an addon that adds the NG user function to Iwara.tv and hides the video 
 
 - firefox
 
-  https://addons.mozilla.org/ja/firefox/addon/furui/
+  https://addons.mozilla.org/firefox/addon/furui/
